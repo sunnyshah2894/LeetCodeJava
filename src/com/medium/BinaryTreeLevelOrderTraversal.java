@@ -44,6 +44,12 @@ return its level order traversal as:
 */
 public class BinaryTreeLevelOrderTraversal {
 	class TreeNode{
+		/**
+		 * @param i
+		 */
+		public TreeNode(int i) {
+			val = i;
+		}
 		int val;
 		TreeNode left, right;
 	}
