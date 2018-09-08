@@ -102,7 +102,6 @@ class PalindromeLinkedList {
 		String line;
 		while ((line = in.readLine()) != null) {
 			ListNode head = stringToListNode(line);
-
 			boolean ret = new Solution().isPalindrome(head);
 
 			String out = booleanToString(ret);
