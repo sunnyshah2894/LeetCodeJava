@@ -12,7 +12,7 @@ I have divided the project into 3 different packages:
 
 ## About the solutions
 
-* All the problems are solved in Java. I will happy to listen to any suggestions on my solutions. 
+* All the problems are solved in Java. I will be happy to listen to any suggestions on my solutions. 
 * The class names are the actual leetcode problem name. I have also added a link to the actual problem as a comment in each solution
 
 Happy learning! :smile:
