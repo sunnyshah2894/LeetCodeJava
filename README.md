@@ -1,6 +1,6 @@
 # LeetCodeJava
 
-Leetcode has always helped me learn and practice Data-Structures, Algorithms and various other concepts involved in computer science(majorly prograamming). I plan to solve atleast 5 problems everyday( i.e. at least 5 days a week ) and add the solutions to this repo. Feel free to contribute/suggest any amends in this repo/solutions.
+Leetcode has always helped me learn and practice Data-Structures, Algorithms and various other concepts involved in computer science(majorly programming). I plan to solve atleast 5 problems everyday( i.e. at least 5 days a week ) and add the solutions to this repo. Feel free to contribute/suggest any amends in this repo/solutions.
 
 ## Project Structure
 
