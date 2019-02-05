@@ -3,6 +3,8 @@
  */
 package com.medium;
 
+import java.util.Scanner;
+
 /**
  *
 Author: 
@@ -49,7 +51,7 @@ Note:
 */
 public class ScoreAfterFlippingMatrix {
 	public int matrixScore(int[][] A) {
-        
+		
         for( int i=0 ; i<A.length ; i++ ){
             if( A[i][0] == 0 ){
                 for( int j=0 ; j<A[0].length ; j++ ){
